@@ -34,12 +34,15 @@ DISCUSSION OF COMPARABLE SALESThe comparable sales are adjusted for financing, m
 RECONCILIATION AND CORRELATIONIn the preceding pages of this report, only the Sales Comparison Approach was developed.      Sales Comparison Approach Conclusion:$305,000The Sales Comparison Approach is an approach to value wherein the appraiser seeks out sales of similar types of properties that have recently sold in the subject's trade area.  These sales have been compared to the subject and adjusted for dissimilarities between the sale properties and the subject to arrive at an indication of value.  Theoretically, the Sales Comparison Approach reflects the actions of both buyers and sellers in the market.The inherent weakness in the Sales Comparison Approach is that no two sales or properties are exactly alike.  Therefore, adjustments are applied based on interpretations of market information.  This approach is most reliable when there are relatively homogeneous properties or when there are certain strong, similar traits that transcend the sales sample.  In the case of the subject property, the Sales Comparison Approach is viewed as a solid indicator of value.With this in mind, it is my opinion that the market value of the fee simple interest in the subject property, as is, as of October 29, 2021 is $305,000THREEHUNDREDFIVETHOUSAND DOLLARS
 
 ***how many comparable properties in the appraisal?***
+
 The appraisal presents four comparable sales for the subject property.
 
 ***Which of the comparable property is more representing the subject property?***
+
 The appraisal report does not indicate which of the four comparable properties is more representative of the subject property. However, the report notes that comparable sales were analyzed and adjusted for differences in order to arrive at an indication of value for the subject property. This analysis involved considering factors such as property rights conveyed, financing terms, conditions of sale, date of sale, location, physical characteristics, and appraisals measures. Depending on the specific characteristics of the subject property, different comparable sales may be more or less representative of the subject property.
 
 ***With your analysis, can you select the close one from the comparable?***
+
 Based on the information provided in the appraisal report, it is difficult to determine which of the four comparable sales is the closest match to the subject property. Each of the comparable sales has unique characteristics that make them different from the subject property. Additionally, the author notes that adjustments were made to each of the comparable sales to account for their differences and arrive at an indication of value for the subject property.
 
 Without additional information about the specific characteristics of the subject property, it is challenging to select the closest comparable sale. However, based on the appraisal measures presented in the report, comparable sale two with a sale price per square foot of $60 appears to be the closest match in terms of the size and construction quality of the building. However, all four comparable sales were considered and adjusted, and any one of them may be more or less applicable, depending on the details of the subject property.
@@ -60,6 +63,7 @@ Reconciliation: The valuation of the property is reconciled with the Sales Compa
 Overall, these key points highlight the importance of analyzing comparable sales, making necessary adjustments, and reconciling the approaches to arrive at an accurate value for the subject property.
 
 ***any data points can be extracted from it?***
+
 Yes, there are several data points that can be extracted from the appraisal report.
 
 Comparable sales data: The report provides transaction data for four comparable sales, including consideration, date of sale, grantor, grantee, tax parcel, conditions of sale, property rights conveyed, financing, marketing time, improvement data, site data, and appraisal measures.
@@ -75,6 +79,7 @@ Location: The report indicates the locations of the subject property and the fou
 Overall, these data points provide valuable information for estimating the market value of a property and making adjustments based on differences between the subject property and comparable sales.
 
 ***can you provide the data points in measurable values from the above appraisal with all the provided properties?***
+
 Certainly! Here are some of the measurable data points from the appraisal, including all four of the provided comparable sales:
 
 Comparable Sale One:
